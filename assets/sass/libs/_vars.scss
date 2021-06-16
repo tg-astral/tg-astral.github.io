@@ -1,0 +1,55 @@
+// Misc.
+	$misc: (
+		z-index-base:		10000
+	);
+
+// Duration.
+	$duration: (
+		transition:			0.2s,
+		fade-in:			1s
+	);
+
+// Size.
+	$size: (
+		element-margin:		2em
+	);
+
+// Font.
+	$font: (
+		family:				('JetBrains Mono', 'monospace'),
+		weight:				400,
+		weight-bold:		700
+	);
+
+// Palette.
+	$palette: (
+		bg:					#111111,
+		bg-alt:				#151515,
+		fg:					#dfdfdf,
+		fg-bold:			#9b58ff,
+		border:				#151515,
+		dark: (
+			bg:				#111111,
+			fg:				#dfdfdf,
+			fg-bold:		#9b58ff,
+			border:			#151515
+		),
+		accent1: (
+			bg:				#111111,
+			fg:				#dfdfdf,
+			fg-bold:		#9b58ff,
+			border:			#151515
+		),
+		accent2: (
+			bg:				#111111,
+			fg:				#dfdfdf,
+			fg-bold:		#9b58ff,
+			border:			#151515
+		),
+		accent3: (
+			bg:				#111111,
+			fg:				#dfdfdf,
+			fg-bold:		#9b58ff,
+			border:			#151515
+		)
+	);
